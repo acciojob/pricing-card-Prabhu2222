@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.container{
+	width:300px;
+	height: 400px;
+	background-color:#f5f5f5;
+	padding: 30px;
+	text-align:center;
+/* 	border: 1px solid grey; */
+	box-shadow:0px 5px 16px grey;
+}
+.image{
+	width:250px;
+	height:200px;
+}
+.buy{
+	border:none;
+	padding: 16px 8px;
+	background-color: orange;
+	color: white;
+	border-radius: 4px;
+}
